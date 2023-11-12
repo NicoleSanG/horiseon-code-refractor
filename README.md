@@ -6,8 +6,7 @@ This project consists of optimizing the HTML and CSS files to comply with access
 
 ## Visuals
 The full landing page will look like this:
-<img width="1792" alt="Screenshot Horiseon web" src="./assets/images/Horiseon preview.png"> 
-
+![Horiseon Preview](assets/images/Horiseon-preview.png)
 
 ## Installation
 N/A
