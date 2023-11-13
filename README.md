@@ -5,6 +5,7 @@ Code refractor
 This project consists of optimizing the HTML and CSS files to comply with accessibility standards and for SEO purposes. With the new code, users with disabilities will be able to navigate the website and have the best user experience.
 
 ## Visuals
+Horiseon website URL: https://nicolesang.github.io/horiseon-code-refractor/
 The full landing page will look like this:
 ![Horiseon Preview](assets/images/Horiseon-preview.png)
 
