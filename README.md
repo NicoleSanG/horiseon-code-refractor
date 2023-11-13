@@ -6,12 +6,13 @@ This project consists of optimizing the HTML and CSS files to comply with access
 
 ## Visuals
 Horiseon website URL: https://nicolesang.github.io/horiseon-code-refractor/
-The full landing page will look like this:
+
+- The full landing page will look like this:
 ![Horiseon Preview](assets/images/Horiseon-preview.png)
 
-## Installation
-N/A
-
+## Usage
+Clicking on any of the three options in the navigation bar will lead the user to the corresponding article on the webpage.
+![Horiseon nav bar](assets/images/horiseon-navbar.png)
 
 ## Authors and acknowledgment
 N/A
